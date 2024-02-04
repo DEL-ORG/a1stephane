@@ -1,1 +1,4 @@
-welcome to git
+mkdir ~/Downloads/GITHUB/ ; echo s7 > ~/Downloads/GITHUB/file.tx
+mkdir ~/Downloads/GITHUB/ ; echo s7 > ~/Downloads/GITHUB/file.tx
+ mkdir ~/Downloads/GITHUB1/ ; echo s7 > ~/Downloads/GITHUB1/file.tx
+`  `  
